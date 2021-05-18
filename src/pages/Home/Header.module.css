@@ -1,0 +1,7 @@
+.header {
+  display: flex;
+}
+
+.headerLeftDiv{
+  width:50%;
+}
